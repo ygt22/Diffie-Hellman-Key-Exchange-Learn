@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://www.flaticon.com/premium-icon/lock_2592543?related_id=2592543#">
-    <img src="images/lock.png" alt="Logo" width="80" height="80">
+    <img src="img/lock.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Diffie-Hellman Key Exchange</h3>
